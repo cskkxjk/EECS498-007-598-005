@@ -1,2 +1,2 @@
 # EECS498-007-598-005
-EECS498-007/598-005 assignment
+EECS498-007/598-005 assignments
